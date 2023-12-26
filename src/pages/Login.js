@@ -47,7 +47,7 @@ const Login = () => {
             name="email"
             value={credentials.email}
             onChange={handleInputChange}
-            placeholder="johndoe@example.com"
+            placeholder="user@example.com"
             required
           />
         </div>
